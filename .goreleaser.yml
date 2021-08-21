@@ -30,7 +30,7 @@ archives:
         format: zip
 release:
   prerelease: auto
-  gitlab:
+  github:
     owner: doranych
     name: twitch-chat-defender
 checksum:
